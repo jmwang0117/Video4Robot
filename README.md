@@ -1,15 +1,9 @@
-
-<p align="center">
-     Video-Centric Approaches to General Robotic Manipulation Learning
-
-
-   <p align="center">
-    <a href="#"><strong>Junming Wang</strong></a>
-   
+<div align="center">
+    <h1>🤖 Video-Centric Approaches to General Robotic Manipulation Learning</h1>
+    <h4>Junming Wang</h4> <br>
     
-</p>
     
-
+</div>
 
  
 <!--   
