@@ -76,8 +76,6 @@ current limitations and future research directions are discussed.
 
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
-
-
 |2024.10|arXiv|[Robots Pre-train Robots: Manipulation-Centric Robotic Representation from Large-Scale Robot Dataset](https://arxiv.org/abs/2410.22325)|[Project Page](https://robots-pretrain-robots.github.io/)|
 |2024.10|CoRL|[OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation](https://arxiv.org/abs/2410.11792)|[Project Page](https://ut-austin-rpl.github.io/OKAMI/)|
 |2024.10|CoRL|[Differentiable Robot Rendering](https://arxiv.org/abs/2410.13851)|[Project Page](https://drrobot.cs.columbia.edu/)
