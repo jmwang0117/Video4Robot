@@ -83,6 +83,7 @@ current limitations and future research directions are discussed.
 |2024.09|arXiv|[Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable Robot Manipulation](https://arxiv.org/abs/2409.16283)|[Project Page](https://homangab.github.io/gen2act/)|
 |2024.09|NeurIPS|[Closed-Loop Visuomotor Control with Generative Expectation for Robotic Manipulation](https://arxiv.org/abs/2409.09016)|[Project Page](https://github.com/OpenDriveLab/CLOVER)|
 |2024.07|CoRL|[Flow as the Cross-Domain Manipulation Interface](https://arxiv.org/abs/2407.15208)|[Project Page](https://im-flow-act.github.io/)|
+|2024.06|arXiv|[ARDuP: Active Region Video Diffusion for Universal Policies](https://arxiv.org/abs/2406.13301)|-|
 |2024.06|CoRL|[Dreamitate: Real-World Visuomotor Policy Learning via Video Generation](https://arxiv.org/abs/2406.16862)|[Project Page](https://dreamitate.cs.columbia.edu/)|
 |2024.05|ECCV|[Track2Act: Predicting Point Tracks from Internet Videos enables Generalizable Robot Manipulation](https://arxiv.org/abs/2405.01527)|[Project Page](https://homangab.github.io/track2act/)|
 |2023.12|RSS|[Any-point Trajectory Modeling for Policy Learning](https://arxiv.org/abs/2401.00025)|[Project Page](https://xingyu-lin.github.io/atm)|
