@@ -72,6 +72,7 @@ current limitations and future research directions are discussed.
 |:-:|:-:|-|-|
 |2024.11|Microsoft|[IGOR: Image-GOal Representations](https://arxiv.org/pdf/2411.00785)|[Project Page](https://www.microsoft.com/en-us/research/project/igor-image-goal-representations/)|
 |2024.11|Physical Intelligence|[π0: A Vision-Language-Action Flow Model for General Robot Control](https://www.physicalintelligence.company/download/pi0.pdf)|[Project Page](https://www.physicalintelligence.company/blog/pi0)|
+|2024.10|arXiv|[VideoAgent: Self-Improving Video Generation](https://arxiv.org/abs/2410.10076)|[Project Page](https://github.com/Video-as-Agent/VideoAgent)|
 |2024.10|arXiv|[Robots Pre-train Robots: Manipulation-Centric Robotic Representation from Large-Scale Robot Dataset](https://arxiv.org/abs/2410.22325)|[Project Page](https://robots-pretrain-robots.github.io/)|
 |2024.10|CoRL|[OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation](https://arxiv.org/abs/2410.11792)|[Project Page](https://ut-austin-rpl.github.io/OKAMI/)|
 |2024.10|CoRL|[Differentiable Robot Rendering](https://arxiv.org/abs/2410.13851)|[Project Page](https://drrobot.cs.columbia.edu/)
@@ -83,7 +84,7 @@ current limitations and future research directions are discussed.
 |2024.09|arXiv|[Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable Robot Manipulation](https://arxiv.org/abs/2409.16283)|[Project Page](https://homangab.github.io/gen2act/)|
 |2024.09|NeurIPS|[Closed-Loop Visuomotor Control with Generative Expectation for Robotic Manipulation](https://arxiv.org/abs/2409.09016)|[Project Page](https://github.com/OpenDriveLab/CLOVER)|
 |2024.07|CoRL|[Flow as the Cross-Domain Manipulation Interface](https://arxiv.org/abs/2407.15208)|[Project Page](https://im-flow-act.github.io/)|
-|2024.07|CoRL|[This&That: Language-Gesture Controlled Video Generation for Robot Planning](https://arxiv.org/abs/2407.05530)|[Project Page](https://cfeng16.github.io/this-and-that/)|
+|2024.07|arXiv|[This&That: Language-Gesture Controlled Video Generation for Robot Planning](https://arxiv.org/abs/2407.05530)|[Project Page](https://cfeng16.github.io/this-and-that/)|
 |2024.06|arXiv|[ARDuP: Active Region Video Diffusion for Universal Policies](https://arxiv.org/abs/2406.13301)|-|
 |2024.06|CoRL|[Dreamitate: Real-World Visuomotor Policy Learning via Video Generation](https://arxiv.org/abs/2406.16862)|[Project Page](https://dreamitate.cs.columbia.edu/)|
 |2024.05|ECCV|[Track2Act: Predicting Point Tracks from Internet Videos enables Generalizable Robot Manipulation](https://arxiv.org/abs/2405.01527)|[Project Page](https://homangab.github.io/track2act/)|
