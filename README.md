@@ -64,7 +64,6 @@ current limitations and future research directions are discussed.
 - [Occupancy-based Applications](#occupancy-based-applications)
 - [Cite The Survey](#Cite-The-Survey)
 - [Contact](#contact) -->
-Grounding Video Models to Actions through Goal Conditioned Exploration
 
 ## Methods:
 
