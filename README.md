@@ -64,12 +64,13 @@ current limitations and future research directions are discussed.
 - [Occupancy-based Applications](#occupancy-based-applications)
 - [Cite The Survey](#Cite-The-Survey)
 - [Contact](#contact) -->
-
+Grounding Video Models to Actions through Goal Conditioned Exploration
 
 ## Methods:
 
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
+|2024.11|arXiv|[Grounding Video Models to Actions through Goal Conditioned Exploration](https://arxiv.org/abs/2411.07223)|[Project Page](https://video-to-action.github.io/)|
 |2024.11|Microsoft|[IGOR: Image-GOal Representations](https://arxiv.org/pdf/2411.00785)|[Project Page](https://www.microsoft.com/en-us/research/project/igor-image-goal-representations/)|
 |2024.11|Physical Intelligence|[π0: A Vision-Language-Action Flow Model for General Robot Control](https://www.physicalintelligence.company/download/pi0.pdf)|[Project Page](https://www.physicalintelligence.company/blog/pi0)|
 |2024.10|arXiv|[VideoAgent: Self-Improving Video Generation](https://arxiv.org/abs/2410.10076)|[Project Page](https://github.com/Video-as-Agent/VideoAgent)|
