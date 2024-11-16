@@ -69,6 +69,7 @@ current limitations and future research directions are discussed.
 
 |Year|Venue|Paper Title|Link|
 |:-:|:-:|-|-|
+|2024.11|arXiv|[VidMan: Exploiting Implicit Dynamics from Video Diffusion Model for Effective Robot Manipulation](https://arxiv.org/abs/2411.09153)|---|
 |2024.11|arXiv|[Grounding Video Models to Actions through Goal Conditioned Exploration](https://arxiv.org/abs/2411.07223)|[Project Page](https://video-to-action.github.io/)|
 |2024.11|Microsoft|[IGOR: Image-GOal Representations](https://arxiv.org/pdf/2411.00785)|[Project Page](https://www.microsoft.com/en-us/research/project/igor-image-goal-representations/)|
 |2024.11|Physical Intelligence|[π0: A Vision-Language-Action Flow Model for General Robot Control](https://www.physicalintelligence.company/download/pi0.pdf)|[Project Page](https://www.physicalintelligence.company/blog/pi0)|
@@ -78,7 +79,7 @@ current limitations and future research directions are discussed.
 |2024.10|CoRL|[Differentiable Robot Rendering](https://arxiv.org/abs/2410.13851)|[Project Page](https://drrobot.cs.columbia.edu/)
 |2024.10|arXiv|[Latent Action Pretraining from Videos](https://arxiv.org/abs/2410.11758)|[Project Page](https://latentactionpretraining.github.io/)|
 |2024.10|arXiv|[Towards Synergistic, Generalized, and Efficient Dual-System for Robotic Manipulation](https://arxiv.org/abs/2410.08001)|[Project Page](https://opendrivelab.com/RoboDual/)|
-|2024.10|arXiv|[VLM See, Robot Do: Human Demo Video to Robot Action Plan via Vision Language Model](https://arxiv.org/abs/2410.08792) |-|
+|2024.10|arXiv|[VLM See, Robot Do: Human Demo Video to Robot Action Plan via Vision Language Model](https://arxiv.org/abs/2410.08792) |---|
 |2024.10|arXiv|[GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation](https://arxiv.org/abs/2410.06158)|[Project Page](https://gr2-manipulation.github.io/)|
 |2024.09|arXiv|[DynaMo: In-Domain Dynamics Pretraining for Visuo-Motor Control](https://arxiv.org/abs/2409.12192)|[Project Page](https://dynamo-ssl.github.io/)|
 |2024.09|arXiv|[Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable Robot Manipulation](https://arxiv.org/abs/2409.16283)|[Project Page](https://homangab.github.io/gen2act/)|
